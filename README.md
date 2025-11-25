@@ -1,4 +1,4 @@
-#  TP – Automatisation du cycle de vie d'une application Spring Boot avec Bash
+#  TP 13 : Automatisation et Déploiement Spring Boot avec Bash
 
 Ce projet Spring Boot est configuré avec des scripts Bash pour automatiser le cycle de vie de l'application.
 
@@ -43,7 +43,7 @@ Compile le projet et déploie la nouvelle version.
 ./scripts/deploy.sh
 ```
 
-## 🛠️ Installation et utilisation
+##  Installation et utilisation
 
 ### 1. Donner les permissions d'exécution aux scripts
 
